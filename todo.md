@@ -1,0 +1,1 @@
+- [ ] prerobit otazky/odpovede z okruhu 3 na templaty
