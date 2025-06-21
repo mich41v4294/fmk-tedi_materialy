@@ -1,86 +1,66 @@
-**TLDR:** Základné pojmy masovej komunikácie
+---
+tags:
+  - štátnice
+cislo-otazky: 1
+okruh: Teoria masmedialnej komunikacie
+klucove-pojmy:
+  - "[[komunikácia]]"
+  - "[[komunikátor]]"
+  - "[[komunikát]]"
+  - "[[médium]]"
+  - "[[recipient]]"
+  - "[[spätná väzba]]"
+hlavni-autori:
+  - "[[Oľga Škvareninová]]"
+stav-vypracovania: k-revizii
+---
 
-- **Proces:** Komunikátor (kto) vytvára (kóduje) Komunikát (čo), ktorý posiela cez Médium (akým kanálom) k Recipientovi (komu), ktorý správu interpretuje (dekóduje).
-- **Aktívne publikum:** Recipient nie je pasívny prijímateľ; aktívne interpretuje správy na základe svojho kontextu a môže význam správy prijať, zmeniť alebo odmietnuť.
-- **Spätná väzba:** Je to reakcia publika, ktorá uzatvára komunikačný kruh. V digitálnych médiách sa zmenila z pomalej a nepriamej (listy, sledovanosť) na okamžitú a priamu (komentáre, lajky), čo stiera hranice medzi tvorcom a publikom.
-- **Médium je posolstvo (McLuhan):** Technológia (médium) použitá na komunikáciu (napr. kniha vs. internet) formuje spoločnosť a naše vnímanie viac než samotný obsah správ.
-___
-Tieto základné pojmy tvoria kostru každého komunikačného modelu a sú esenciálne pre pochopenie toho, ako funguje masová, ale aj akákoľvek iná forma komunikácie. Predstavujú jednotlivé kroky v procese prenosu informácie od zdroja k príjemcovi. Klasický model, ktorý tieto prvky spája, je napríklad Lasswellova formula (1948): _Kto hovorí? Čo hovorí? Akým kanálom? Komu? S akým účinkom?_ Tieto otázky priamo zodpovedajú pojmom: komunikátor, komunikát, médium, recipient a (v širšom zmysle) efekt, ktorý je úzko spojený so spätnou väzbou.
+> [!TIP] TL;DR: Hlavná myšlienka v skratke
+> 
+> - Komunikácia je proces výmeny informácií a významov pomocou znakových systémov. Tvorí základ sociálnej interakcie.
+> - Základný model komunikácie pozostáva z **komunikátora** (odosielateľa), ktorý kóduje **komunikát** (správu) a posiela ho cez **médium** (kanál) k **recipientovi** (prijímateľovi).
+> - **Spätná väzba**, teda reakcia recipienta, je v masovej komunikácii na rozdiel od interpersonálnej výrazne oneskorená, sprostredkovaná a obmedzená.
 
-### 1. Komunikácia
+> [!QUESTION] Celé znenie otázky
+> 
+> > 1. Základné pojmy spojené s masovou komunikáciou: komunikácia, komunikátor, komunikát, médium, recipient, spätná väzba.
 
-Komunikácia je proces vytvárania a zdieľania významu prostredníctvom symbolických interakcií. Je to fundamentálny sociálny proces, ktorý umožňuje výmenu informácií, myšlienok, postojov a emócií.
+---
 
-- **Kľúčové aspekty:**
-    
-    - **Proces:** Komunikácia nie je jednorazový akt, ale dynamický a neustále prebiehajúci proces.
-    - **Zdieľanie významu:** Cieľom nie je len poslať správu, ale zabezpečiť, aby ju druhá strana pochopila zamýšľaným spôsobom. To zahŕňa procesy _kódovania_ (vytváranie správy) a _dekódovania_ (interpretácia správy).
-    - **Kontext:** Každá komunikácia prebieha v špecifickom fyzickom, sociálnom a kultúrnom kontexte, ktorý ovplyvňuje jej význam.
-- **Typy podľa rozsahu:**
-    
-    - **Interpersonálna:** Komunikácia medzi dvoma alebo malým počtom ľudí.
-    - **Skupinová:** Komunikácia v rámci malej skupiny (napr. rodina, pracovný tím).
-    - **Masová:** Proces, pri ktorom profesionálni komunikátori používajú technologické médiá na šírenie správ širokému, anonymnému a heterogénnemu publiku.
+### Scenár ústnej odpovede
 
-### 2. Komunikátor
+#### Úvodné myšlienky (Spustenie odpovede)
 
-Komunikátor je zdrojom alebo pôvodcom správy. Je to entita, ktorá iniciuje komunikačný proces.
+Aby sme mohli analyzovať komplexné procesy masovej komunikácie a jej účinky, je nevyhnutné najprv porozumieť jej základným stavebným kameňom. Táto otázka sa zameriava práve na tieto kľúčové prvky, ktoré tvoria základ každého komunikačného modelu. Postupne si definujeme, čo je to komunikácia, kto je komunikátor a recipient, čo rozumieme pod pojmami komunikát a médium a akú úlohu v celom procese zohráva spätná väzba, pričom poukážem na špecifiká týchto pojmov v kontexte masových médií.
 
-- **Definícia:** V kontexte masovej komunikácie je komunikátorom zriedkakedy jednotlivec. Typicky ide o komplexnú organizáciu (napr. televízna stanica, vydavateľstvo, filmové štúdio) so špecifickými cieľmi a vnútornou hierarchiou.
-- **Funkcia Gatekeepingu (Vrátnictva):**
-    - Komunikátor v masových médiách plní kľúčovú funkciu _gatekeepera_. Rozhoduje o tom, ktoré informácie sa stanú súčasťou verejného diskurzu a ktoré budú odfiltrované.
-    - Editor v novinách, ktorý vyberá články na titulnú stranu, je klasickým príkladom gatekeepera. V digitálnom prostredí túto rolu čiastočne preberajú algoritmy sociálnych sietí.
-- **Príklady:**
-    - **Tradičné:** BBC, The New York Times, Warner Bros.
-    - **Moderné:** Tvorca obsahu na YouTube (napr. PewDiePie), administrátor populárnej facebookovej stránky, spravodajský portál (napr. Denník N).
+#### Jadro odpovede (Postupné rozvíjanie témy)
 
-### 3. Komunikát
+Samotný pojem **[[komunikácia]]** pochádza z latinského slova "communicare", čo znamená deliť sa alebo robiť niečo spoločným. Hoci neexistuje jedna univerzálna definícia, vo všeobecnosti ju chápeme ako proces prenosu a výmeny informácií, signálov, pocitov či myšlienok medzi jednotlivcami alebo skupinami. Napríklad [[Oľga Škvareninová]] definuje komunikáciu ako rozhovor, respektíve ako odovzdávanie a výmenu informácií pomocou spoločného systému znakov. V podstate ide o sociálnu interakciu, ktorá sa realizuje prostredníctvom verbálnych aj neverbálnych prostriedkov a je základnou náplňou nášho spoločenského života.
 
-Komunikát je samotný obsah, správa, ktorá je prenášaná od komunikátora k recipientovi. Je to "čo" sa hovorí.
+Každý komunikačný proces má svoje základné prvky. Na začiatku stojí **[[komunikátor]]**, teda odosielateľ alebo iniciátor komunikácie, ktorý informáciu vysiela. Kým v interpersonálnej komunikácii ide o jednotlivca, pre masovú komunikáciu je typické, že komunikátor je kolektívny. Nie je to jedna osoba, ale celá organizácia či inštitúcia, napríklad redakcia spravodajstva, televízna stanica alebo vydavateľstvo.
 
-- **Definícia:** Je to súbor symbolov (slová, obrazy, zvuky), ktoré reprezentujú význam, ktorý chce komunikátor odovzdať.
-- **Štruktúra a vlastnosti:**
-    - **Kódovanie:** Komunikát je výsledkom procesu kódovania, pri ktorom komunikátor "prekladá" svoje myšlienky do zdieľateľnej formy.
-    - **Obsah a forma:** Správa má svoj _obsah_ (čo sa hovorí) a _formu_ (ako sa to hovorí). Forma (napr. vizuálny štýl filmu, tón hlasu v rádiu) môže zásadne ovplyvniť interpretáciu obsahu.
-    - **Manifestný a latentný význam:** Manifestný je zjavný, povrchový význam. Latentný je skrytý, ideologický alebo podprahový význam.
-- **Príklady:** Televízne správy, celovečerný film, pieseň v rádiu, príspevok na sociálnej sieti, reklamný spot, novinový článok.
+Obsahom, ktorý komunikátor odosiela, je **[[komunikát]]**. Je to samotná správa, informácia alebo obsah, ktorý je v rámci komunikácie prenášaný. Môže mať rôzne podoby – text v novinách, zvuk v rozhlase, obraz v televízii alebo kombinácia viacerých foriem, ako je to bežné na internete.
 
-### 4. Médium
+##### Prenos a prijímanie správy
 
-Médium je prostriedok, kanál alebo technológia, ktorá slúži na prenos komunikátu od komunikátora k recipientovi.
+Aby sa komunikát dostal od komunikátora k príjemcovi, je potrebný **[[médium]]**. Tento pojem môžeme chápať v dvoch rovinách. V širšom zmysle je to akýkoľvek nosič informácií a komunikačných obsahov – čokoľvek, čo dokáže informácie uchovávať, prenášať a šíriť. V užšom, inštitucionálnom zmysle, označuje konkrétne masové médiá ako sú televízia, rozhlas, noviny či internet. Médium teda slúži ako komunikačný kanál.
 
-- **Definícia:** Médium je nosičom správy. V masovej komunikácii ide o technologické prostriedky umožňujúce osloviť veľké množstvo ľudí naraz.
-- **Teória "The Medium is the Message" (Marshall McLuhan):**
-    - Táto kľúčová teória hovorí, že povaha média samotného má na spoločnosť a ľudské vnímanie väčší vplyv ako obsah, ktorý prenáša.
-    - Napríklad vynález kníhtlače zmenil spoločnosť podporou individualizmu a lineárneho myslenia, zatiaľ čo televízia podporila globálnu dedinu a simultánne vnímanie. Internet priniesol interaktivitu a sieťovú logiku.
-- **Príklady:**
-    - **Tlačové médiá:** Noviny, časopisy, knihy.
-    - **Elektronické médiá:** Rádio, televízia.
-    - **Digitálne/Nové médiá:** Internet, sociálne siete, webové stránky, mobilné aplikácie. Tieto médiá sa vyznačujú _konvergenciou_ (spájaním rôznych foriem médií do jedného) a _interaktivitou_.
+Na druhej strane komunikačného reťazca stojí **[[recipient]]**, teda prijímateľ, ktorému je informácia určená. V kontexte masovej komunikácie hovoríme o súbore všetkých recipientov ako o mediálnom publiku. Toto publikum je na rozdiel od interpersonálnej komunikácie zväčša anonymné, heterogénne a geograficky rozptýlené.
 
-### 5. Recipient
+Posledným, no kľúčovým prvkom je **[[spätná väzba]]**. Je to odpoveď alebo reakcia, ktorú recipient poskytuje komunikátorovi a ktorá komunikátorovi umožňuje zistiť, či bola správa prijatá, ako bola pochopená a aký mala účinok. Zatiaľ čo v priamej, interpersonálnej komunikácii je spätná väzba okamžitá a priama, v klasickej masovej komunikácii je jej charakter výrazne odlišný. Je minimálna, oneskorená a sprostredkovaná – napríklad vo forme listov do redakcie, telefonátov do štúdia alebo prostredníctvom peoplemetrového merania sledovanosti. Až nástup digitálnych médií tento stav výrazne zmenil a umožnil oveľa interaktívnejšiu a okamžitejšiu spätnú väzbu.
 
-Recipient je prijímateľ, publikum alebo cieľová skupina komunikátu. Je to ten, "komu" je správa určená.
+#### Záverečná syntéza (Zhrnutie a prepojenie)
 
-- **Definícia:** V masovej komunikácii je publikum typicky:
-    - **Veľké:** Tvorené tisíckami až miliónmi ľudí.
-    - **Heterogénne:** Zložené z ľudí s rôznym vzdelaním, vekom, názormi a sociálnym postavením.
-    - **Anonymné:** Komunikátor svojich recipientov osobne nepozná.
-- **Teória aktívneho publika:**
-    - Staršie modely (napr. teória "hypodermickej ihly") vnímali publikum ako pasívnu masu, ktorá bez odporu prijíma mediálne obsahy.
-    - Moderné teórie (napr. model Kódovanie/Dekódovanie od Stuarta Halla) zdôrazňujú, že publikum je _aktívne_. Recipienti správy _dekódujú_ na základe svojho vlastného sociálneho a kultúrneho kontextu. Môžu prijať dominantný význam, vyjednávať o ňom, alebo ho úplne odmietnuť.
-- **Príklady:** Diváci večerných správ, čitatelia románu, poslucháči podcastu, sledovatelia na Instagrame.
+Na záver možno povedať, že týchto šesť pojmov – komunikácia, komunikátor, komunikát, médium, recipient a spätná väzba – tvorí kostru základného, zväčša lineárneho modelu komunikácie. Spoločne opisujú proces, v ktorom kolektívny komunikátor prostredníctvom technického média vysiela komunikát širokému a anonymnému publiku recipientov, pričom spätná väzba je v tomto procese výrazne limitovaná. Pochopenie definície a vzájomných vzťahov týchto prvkov je východiskovým bodom pre akúkoľvek hlbšiu analýzu mediálnych obsahov, teórií mediálnych účinkov a fungovania médií v spoločnosti.
 
-### 6. Spätná väzba
+---
 
-Spätná väzba je reakcia recipienta na komunikát, ktorá sa vracia späť ku komunikátorovi. Uzatvára komunikačný cyklus a umožňuje jeho modifikáciu.
+### Doplňujúce materiály (pre vlastnú prípravu)
 
-- **Definícia:** Je to informácia, ktorá komunikátorovi hovorí, či a ako bola jeho správa prijatá a pochopená.
-- **Charakteristika v masovej komunikácii:**
-    - **Tradičná spätná väzba:** Bola typicky _oneskorená_, _nepriama_ a _agregovaná_. Príkladom sú listy do redakcie, prieskumy sledovanosti (napr. peoplemetre) alebo čísla o predaji novín.
-    - **Spätná väzba v digitálnych médiách:** Je radikálne odlišná. Je _okamžitá_, _priama_ a _individuálna_. To zásadne mení dynamiku moci medzi komunikátorom a recipientom.
-- **Príklady:**
-    - **Tradičné:** Listy čitateľov, peoplemetrové merania sledovanosti, recenzie v tlači.
-    - **Moderné:** Komentáre pod YouTube videom, lajky a zdieľania na Facebooku, recenzie na Google Maps, počet retweetov, online diskusné fóra.
+#### Zdroje
 
-Tieto pojmy sú navzájom prepojené a ich vzťahy sa menia s vývojom technológií. V ére digitálnych médií sa hranice medzi komunikátorom a recipientom stierajú (každý môže produkovať obsah), médiá konvergujú a spätná väzba je neoddeliteľnou a okamžitou súčasťou komunikačného procesu. Pochopenie týchto základných kameňov je však nevyhnutným prvým krokom k analýze akéhokoľvek mediálneho javu.
+#### Možné doplňujúce otázky
+
+- Ako sa mení charakter a význam spätnej väzby v kontexte nových digitálnych médií (napr. sociálnych sietí) v porovnaní s tradičnými masovými médiami?
+- Vysvetlite rozdiel medzi médiom ako informačným nosičom a médiom ako inštitúciou. Uveďte konkrétne príklady pre oba významy.
+- Prečo je v masovej komunikácii komunikátor takmer vždy označovaný ako "kolektívny"? Aké dôsledky to má na produkovaný obsah (komunikát)?

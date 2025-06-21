@@ -3,8 +3,6 @@ tags: [definicia, teoria-hier, kulturne-studia, digitalne-hry]
 aliases: []
 ---
 
-# # {{Názov Pojmu}}
-
 ## Základná definícia
 
 > Krátka a výstižná definícia pojmu.

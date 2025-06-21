@@ -1,7 +1,19 @@
 ---
-tags: [definicia, teoria-komunikacie, teoria-medii, kanal]
-aliases: [channel, komunikačný kanál]
-suvisiace-pojmy: ["[[Komunikácia]]", "[[Komunikát]]", "[[Marshall McLuhan]]", "[[Médium je posolstvo]]", "[[Horúce a chladné médiá]]"]
+tags:
+  - definicia
+  - teoria-komunikacie
+  - teoria-medii
+  - kanal
+aliases:
+  - channel
+  - komunikačný kanál
+  - Komunikačný kanál
+suvisiace-pojmy:
+  - "[[Komunikácia]]"
+  - "[[Komunikát]]"
+  - "[[Marshall McLuhan]]"
+  - "[[Médium je posolstvo]]"
+  - "[[Horúce a chladné médiá]]"
 ---
 ## Základná definícia
 
