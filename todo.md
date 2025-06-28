@@ -1,1 +1,2 @@
 - [ ] prerobit statnicove otazky/odpovede z okruhu 2 a 3 na templaty
+- [ ] doplnit obsahovo [[Dejiny mediálnej komunikácie]] celkovo
