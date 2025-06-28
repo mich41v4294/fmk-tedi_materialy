@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Gender a hry**
 
 - **Historický problém:** Hry často **objektifikovali** ženy (nerealistické telá, sexy brnenia) a používali **stereotypy** – žena ako "dáma v núdzi" a muž ako emocionálne plochý svalovec (tzv. toxická maskulinita).

@@ -7,6 +7,7 @@ aliases:
   - Lineárne modely
   - Jednosmerný model komunikácie
   - lineárny model
+dg-publish: true
 ---
 ## Základná definícia
 

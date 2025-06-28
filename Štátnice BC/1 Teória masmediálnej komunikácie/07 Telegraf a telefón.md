@@ -1,10 +1,22 @@
 ---
-tags: [štátnice]
+tags:
+  - štátnice
 cislo-otazky: 7
 okruh: Teoria masmedialnej komunikacie
-klucove-pojmy: ["[[elektronické médiá]]", "[[terciárne médiá]]", "[[telegraf]]", "[[telefón]]", "[[zvukové nosiče]]", "[[fonograf]]"]
-hlavni-autori: ["[[Samuel Morse]]", "[[Alexander Graham Bell]]", "[[Thomas Alva Edison]]", "[[Emile Berliner]]"]
-stav-vypracovania: hotovo
+klucove-pojmy:
+  - "[[elektronické médiá]]"
+  - "[[terciárne médiá]]"
+  - "[[telegraf]]"
+  - "[[telefón]]"
+  - "[[zvukové nosiče]]"
+  - "[[fonograf]]"
+hlavni-autori:
+  - "[[Samuel Morse]]"
+  - "[[Alexander Graham Bell]]"
+  - "[[Thomas Alva Edison]]"
+  - "[[Emile Berliner]]"
+stav-vypracovania: k-revizii
+dg-publish: true
 ---
 
 > [!TIP] TL;DR: Hlavná myšlienka v skratke
@@ -17,8 +29,6 @@ stav-vypracovania: hotovo
 
 ---
 ### Scenár ústnej odpovede
-
-*(Celý nasledujúci text by mal na seba plynule nadväzovať ako jeden celok. Nadpisy slúžia na štrukturáciu myšlienok, nie na oddelenie odpovede na samostatné časti.)*
 
 #### Úvodné myšlienky (Spustenie odpovede)
 

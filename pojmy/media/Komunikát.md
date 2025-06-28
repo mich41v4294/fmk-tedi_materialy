@@ -1,7 +1,21 @@
 ---
-tags: [definicia, teoria-komunikacie, obsah]
-aliases: [message, správa, posolstvo, obsah oznámenia]
-suvisiace-pojmy: ["[[Komunikácia]]", "[[Komunikátor]]", "[[Médium]]", "[[Dekódovanie]]", "[[Sémantika]]", "[[Znak]]"]
+tags:
+  - definicia
+  - teoria-komunikacie
+  - obsah
+aliases:
+  - message
+  - správa
+  - posolstvo
+  - obsah oznámenia
+suvisiace-pojmy:
+  - "[[Komunikácia]]"
+  - "[[Komunikátor]]"
+  - "[[Médium]]"
+  - "[[Dekódovanie]]"
+  - "[[Sémantika]]"
+  - "[[Znak]]"
+dg-publish: true
 ---
 ## Základná definícia
 

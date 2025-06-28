@@ -1,1 +1,1 @@
-- [ ] prerobit otazky/odpovede z okruhu 3 na templaty
+- [ ] prerobit statnicove otazky/odpovede z okruhu 2 a 3 na templaty

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Teoretické základy herných mechaník**
 
 - **Základné pojmy:** **Hra** je systém s pravidlami. **Mechaniky** sú konkrétne "slovesá" hry (čo môžete robiť – skákať, strieľať). **Gameplay** je výsledný zážitok z ich používania.

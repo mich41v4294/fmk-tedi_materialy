@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Rovnováha herných mechaník**
 
 - **Hlavný cieľ:** Cieľom vyvažovania nie je, aby bolo všetko rovnaké, ale aby bola hra **férová** a aby mal hráč k dispozícii viacero **zmysluplných volieb**. Má zabrániť nude a frustrácii.

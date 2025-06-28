@@ -1,10 +1,23 @@
 ---
-tags: [štátnice]
+tags:
+  - štátnice
 cislo-otazky: 17
 okruh: Teoria masmedialnej komunikacie
-klucove-pojmy: ["[[Znovuobjavenie mocných médií]]", "[[Dohodnuté účinky]]", "[[Agenda-setting]]", "[[Vedomostná priepasť]]", "[[Špirála mlčania]]", "[[Kultivačná teória]]", "[[Aktívne publikum]]", "[[Model kódovania a dekódovania]]"]
-hlavni-autori: ["[[Elizabeth Noelle-Neumann]]", "[[Stuart Hall]]", "[[McCombs a Shaw]]"]
+klucove-pojmy:
+  - "[[Znovuobjavenie mocných médií]]"
+  - "[[Dohodnuté účinky]]"
+  - "[[Agenda-setting]]"
+  - "[[Vedomostná priepasť]]"
+  - "[[Špirála mlčania]]"
+  - "[[Kultivačná teória]]"
+  - "[[Aktívne publikum]]"
+  - "[[Model kódovania a dekódovania]]"
+hlavni-autori:
+  - "[[Elizabeth Noelle-Neumann]]"
+  - "[[Stuart Hall]]"
+  - "[[McCombs a Shaw]]"
 stav-vypracovania: k-revizii
+dg-publish: true
 ---
 
 > [!TIP] TL;DR: Hlavná myšlienka v skratke

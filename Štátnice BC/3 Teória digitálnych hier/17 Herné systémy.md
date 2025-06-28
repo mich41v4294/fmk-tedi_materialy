@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Herné systémy**
 
 - **Čo je to:** Hra nie je len súbor mechaník, ale **prepojený systém**, kde všetko ovplyvňuje všetko (napr. bojový systém ovplyvňuje ekonomický, ten ovplyvňuje postup hrou).

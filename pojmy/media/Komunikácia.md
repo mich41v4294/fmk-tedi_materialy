@@ -1,7 +1,21 @@
 ---
-tags: [definicia, teoria-komunikacie, proces]
-aliases: [communication]
-suvisiace-pojmy: ["[[Komunikátor]]", "[[Komunikát]]", "[[Médium]]", "[[Recipient]]", "[[Spätná väzba]]", "[[Kódovanie]]", "[[Dekódovanie]]", "[[Šum]]", "[[Kontext]]"]
+tags:
+  - definicia
+  - teoria-komunikacie
+  - proces
+aliases:
+  - communication
+suvisiace-pojmy:
+  - "[[Komunikátor]]"
+  - "[[Komunikát]]"
+  - "[[Médium]]"
+  - "[[Recipient]]"
+  - "[[Spätná väzba]]"
+  - "[[Kódovanie]]"
+  - "[[Dekódovanie]]"
+  - "[[Šum]]"
+  - "[[Kontext]]"
+dg-publish: true
 ---
 ## Základná definícia
 

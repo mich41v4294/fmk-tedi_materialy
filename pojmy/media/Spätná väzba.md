@@ -1,7 +1,17 @@
 ---
-tags: [definicia, teoria-komunikacie, interakcia]
-aliases: [feedback]
-suvisiace-pojmy: ["[[Komunikácia]]", "[[Recipient]]", "[[Komunikátor]]", "[[Kybernetika]]", "[[Interaktivita]]"]
+tags:
+  - definicia
+  - teoria-komunikacie
+  - interakcia
+aliases:
+  - feedback
+suvisiace-pojmy:
+  - "[[Komunikácia]]"
+  - "[[Recipient]]"
+  - "[[Komunikátor]]"
+  - "[[Kybernetika]]"
+  - "[[Interaktivita]]"
+dg-publish: true
 ---
 
 ## Základná definícia

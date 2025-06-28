@@ -14,6 +14,7 @@ suvisiace-pojmy:
   - "[[Marshall McLuhan]]"
   - "[[Médium je posolstvo]]"
   - "[[Horúce a chladné médiá]]"
+dg-publish: true
 ---
 ## Základná definícia
 

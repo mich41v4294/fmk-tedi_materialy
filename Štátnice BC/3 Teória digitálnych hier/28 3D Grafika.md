@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: 3D grafika v hrách**
 
 - **Ako vzniká 3D obraz:** Je to proces v niekoľkých krokoch:

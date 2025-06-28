@@ -1,6 +1,11 @@
 ---
-tags: [definicia, teoria-komunikacie, model-komunikacie]
-aliases: ["Transmission model"]
+tags:
+  - definicia
+  - teoria-komunikacie
+  - model-komunikacie
+aliases:
+  - Transmission model
+dg-publish: true
 ---
 ## Základná definícia
 

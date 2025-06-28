@@ -1,10 +1,16 @@
 ---
-tags: [štátnice]
+tags:
+  - štátnice
 cislo-otazky: 5
 okruh: Teoria masmedialnej komunikacie
-klucove-pojmy: ["[[orálna kultúra]]", "[[primárne médiá]]", "[[znamenia a signály]]", "[[hovorený jazyk]]"]
+klucove-pojmy:
+  - "[[orálna kultúra]]"
+  - "[[primárne médiá]]"
+  - "[[znamenia a signály]]"
+  - "[[hovorený jazyk]]"
 hlavni-autori: []
-stav-vypracovania: hotovo
+stav-vypracovania: k-revizii
+dg-publish: true
 ---
 
 > [!TIP] TL;DR: Hlavná myšlienka v skratke
@@ -18,8 +24,6 @@ stav-vypracovania: hotovo
 
 ---
 ### Scenár ústnej odpovede
-
-*(Celý nasledujúci text by mal na seba plynule nadväzovať ako jeden celok. Nadpisy slúžia na štrukturáciu myšlienok, nie na oddelenie odpovede na samostatné časti.)*
 
 #### Úvodné myšlienky (Spustenie odpovede)
 

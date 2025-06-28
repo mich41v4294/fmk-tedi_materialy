@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Environmentálna etika**
 
 - **Čo to je:** Filozofia, ktorá rieši našu morálnu zodpovednosť nielen voči ľuďom, ale aj voči zvieratám, rastlinám a celým ekosystémom.

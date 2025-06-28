@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Naratívne aspekty hier**
 
 - **Hra ako príbeh:** Príbeh v hre nie je len pasívne sledovaný ako vo filme. Vzniká **interakciou** medzi vopred napísaným dejom a **rozhodnutiami hráča**. Hráč je spolutvorcom príbehu.

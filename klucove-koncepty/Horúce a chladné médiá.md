@@ -13,6 +13,7 @@ aliases:
   - Teplé Médiá
   - Hot Media
   - Cold Media
+dg-publish: true
 ---
 ## Základná definícia
 

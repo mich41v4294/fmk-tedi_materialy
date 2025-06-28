@@ -7,6 +7,7 @@ tags:
   - torontska-skola
 aliases:
   - Herbert Marshall McLuhan
+dg-publish: true
 ---
 
 | **Narodenie**        | [[1911]]                            |

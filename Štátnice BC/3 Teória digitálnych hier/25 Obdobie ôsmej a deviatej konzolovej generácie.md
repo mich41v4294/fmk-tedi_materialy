@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Ôsma a deviata konzolová generácia**
 ### Ôsma generácia (cca 2012-2020)
 

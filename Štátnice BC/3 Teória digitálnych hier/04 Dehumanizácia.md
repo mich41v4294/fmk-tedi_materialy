@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Dehumanizácia**
 
 - **Čo to je:** Psychologický proces, kedy prestaneme vnímať iných ako plnohodnotných ľudí (vidíme ich ako zvieratá alebo stroje). To nám umožňuje im ubližovať bez pocitu viny.

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: 2D grafika v hrách**
 
 - **Dva základné typy:**

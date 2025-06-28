@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Ranná história videohier**
 
 - **50. a 60. roky (Laboratóriá):** Prvé hry vznikali ako experimenty na univerzitných počítačoch, nie na predaj. Kľúčové hry boli **Tennis for Two** (1958) a hlavne **Spacewar!** (1962), predchodca všetkých vesmírnych strieľačiek.

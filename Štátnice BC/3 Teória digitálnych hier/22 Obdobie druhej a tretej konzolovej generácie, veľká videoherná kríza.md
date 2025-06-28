@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Druhá a tretia konzolová generácia**
 
 - **Druhá generácia (cca 1976-1983):** Éra **Atari 2600** a **vymeniteľných herných kaziet (cartridge)**. Hry sa začali predávať samostatne, čo spôsobilo obrovský boom na trhu.

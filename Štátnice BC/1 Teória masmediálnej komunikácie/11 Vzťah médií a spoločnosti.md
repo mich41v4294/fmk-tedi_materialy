@@ -1,10 +1,21 @@
 ---
-tags: [štátnice]
+tags:
+  - štátnice
 cislo-otazky: 11
 okruh: Teoria masmedialnej komunikacie
-klucove-pojmy: ["[[sociocentrický prístup]]", "[[mediocentrický prístup]]", "[[funkcionalizmus]]", "[[kritická politická ekonómia]]", "[[sociálny konštruktivizmus]]", "[[technologický determinizmus]]", "[[teória informačnej spoločnosti]]"]
-hlavni-autori: ["[[Herbert Schiller]]", "[[Yoneji Masuda]]"]
-stav-vypracovania: hotovo
+klucove-pojmy:
+  - "[[sociocentrický prístup]]"
+  - "[[mediocentrický prístup]]"
+  - "[[funkcionalizmus]]"
+  - "[[kritická politická ekonómia]]"
+  - "[[sociálny konštruktivizmus]]"
+  - "[[technologický determinizmus]]"
+  - "[[teória informačnej spoločnosti]]"
+hlavni-autori:
+  - "[[Herbert Schiller]]"
+  - "[[Yoneji Masuda]]"
+stav-vypracovania: k-revizii
+dg-publish: true
 ---
 
 > [!TIP] TL;DR: Hlavná myšlienka v skratke
@@ -17,8 +28,6 @@ stav-vypracovania: hotovo
 
 ---
 ### Scenár ústnej odpovede
-
-*(Celý nasledujúci text by mal na seba plynule nadväzovať ako jeden celok. Nadpisy slúžia na štrukturáciu myšlienok, nie na oddelenie odpovede na samostatné časti.)*
 
 #### Úvodné myšlienky (Spustenie odpovede)
 

@@ -13,6 +13,7 @@ klucove-pojmy:
 hlavni-autori:
   - "[[Oľga Škvareninová]]"
 stav-vypracovania: k-revizii
+dg-publish: true
 ---
 
 > [!TIP] TL;DR: Hlavná myšlienka v skratke

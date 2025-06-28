@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Vývoj mobilného a handheldového hrania**
 
 - **Éra handheldov (minulosť):** Historicky ju ovládalo **Nintendo**. S **Game Boyom** a hrou _Tetris_ spravili z prenosného hrania masový fenomén. Neskôr s **Nintendo DS** a dotykovým ovládaním prilákali milióny nových, príležitostných hráčov. Handheldy majú fyzické tlačidlá a sú určené na komplexnejšie a dlhšie hranie.

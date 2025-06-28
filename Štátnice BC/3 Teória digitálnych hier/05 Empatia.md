@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Empatia a hry**
 
 - **Ako to funguje:** Hry budujú empatiu lepšie ako filmy, lebo v nich príbeh len nesledujete, ale **aktívne ho prežívate**. Ste v koži postavy, robíte jej rozhodnutia a cítite ich následky.

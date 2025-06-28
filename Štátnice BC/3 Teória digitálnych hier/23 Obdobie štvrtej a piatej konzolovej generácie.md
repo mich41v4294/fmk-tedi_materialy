@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Štvrtá a piata konzolová generácia**
 
 ### Štvrtá generácia (16-bitová éra, cca 1987-1994)

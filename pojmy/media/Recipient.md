@@ -1,7 +1,21 @@
 ---
-tags: [definicia, teoria-komunikacie, rola]
-aliases: [receiver, prijímateľ, publikum, adresát]
-suvisiace-pojmy: ["[[Komunikácia]]", "[[Komunikátor]]", "[[Spätná väzba]]", "[[Dekódovanie]]", "[[Interpretácia]]", "[[Aktívne publikum]]"]
+tags:
+  - definicia
+  - teoria-komunikacie
+  - rola
+aliases:
+  - receiver
+  - prijímateľ
+  - publikum
+  - adresát
+suvisiace-pojmy:
+  - "[[Komunikácia]]"
+  - "[[Komunikátor]]"
+  - "[[Spätná väzba]]"
+  - "[[Dekódovanie]]"
+  - "[[Interpretácia]]"
+  - "[[Aktívne publikum]]"
+dg-publish: true
 ---
 ## Základná definícia
 

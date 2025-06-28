@@ -1,6 +1,14 @@
 ---
-tags: [definicia, teoria-hier, caillois, ludologia]
-aliases: [Paidia, Ludus, os Paidia-Ludus]
+tags:
+  - definicia
+  - teoria-hier
+  - caillois
+  - ludologia
+aliases:
+  - Paidia
+  - Ludus
+  - os Paidia-Ludus
+dg-publish: true
 ---
 ## Základná definícia
 

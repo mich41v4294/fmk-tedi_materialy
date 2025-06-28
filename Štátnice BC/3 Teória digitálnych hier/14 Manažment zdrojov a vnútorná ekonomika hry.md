@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Manažment zdrojov a ekonomika hier**
 
 - **Jadro hry:** Každá hra je o riadení zdrojov. Jej vnútorná ekonomika je systém, ktorý riadi, ako zdroje v hre vznikajú, menia sa a zanikajú.

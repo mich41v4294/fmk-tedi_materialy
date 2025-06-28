@@ -1,6 +1,12 @@
 ---
-tags: [definicia, teoria-medii, mcluhan, sociologia]
-aliases: [Global Village]
+tags:
+  - definicia
+  - teoria-medii
+  - mcluhan
+  - sociologia
+aliases:
+  - Global Village
+dg-publish: true
 ---
 ## Základná definícia
 

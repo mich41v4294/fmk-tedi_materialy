@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"created":"2025-06-28T19:25:31.101+02:00","updated":"2025-06-28T19:46:46.952+02:00"}
+dg-publish: true
+dg-home: true
 ---
-
 # Materiály ku štúdiu (FMK TEDI - Mediálne štúdiá & Teória digitálnych hier)
 
 Vitajte v kolaboratívnom repozitári poznámok a materiálov ku štúdiu. Tento projekt vznikol ako snaha o vytvorenie otvoreného, prehľadného a kvalitného zdroja pre všetkých študentov, ktorí sa zaujímajú o nižšie uvedené témy.

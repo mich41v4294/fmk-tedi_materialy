@@ -1,6 +1,13 @@
 ---
-tags: [zdroj, kniha, sociologia, teoria-hier]
-aliases: [Les jeux et les hommes, Hry a ľudia: Maska a závrat]
+tags:
+  - zdroj
+  - kniha
+  - sociologia
+  - teoria-hier
+aliases:
+  - Les jeux et les hommes
+  - Hry a ľudia: Maska a závrat
+dg-publish: true
 ---
 * **Autor/ka:** [[Roger Caillois]]
 * **Rok vydania:** [[1958]]

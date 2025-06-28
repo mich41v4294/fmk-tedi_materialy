@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Zodpovednosť herného priemyslu**
 
 - **V minulosti:** Priemysel bol "obetný baránok" (scapegoat), ktorého médiá a politici obviňovali z násilia v spoločnosti (napr. Columbine Shooting). Ako obranu si vytvoril vlastné ratingy (PEGI/ESRB), aby sa vyhol cenzúre.

@@ -1,6 +1,11 @@
 ---
-tags: [definicia, teoria-komunikacie, proces]
-aliases: ["Encoding"]
+tags:
+  - definicia
+  - teoria-komunikacie
+  - proces
+aliases:
+  - Encoding
+dg-publish: true
 ---
 
 ## Základná definícia

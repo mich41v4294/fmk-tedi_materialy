@@ -8,6 +8,7 @@ tags:
 aliases:
   - Johan Huizinga
   - Huizinga
+dg-publish: true
 ---
 
 | **Narodenie**        | [[1872]]                               |

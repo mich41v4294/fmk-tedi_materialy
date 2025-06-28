@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Šiesta a siedma konzolová generácia**
 ### Šiesta generácia (cca 1998-2005)
 

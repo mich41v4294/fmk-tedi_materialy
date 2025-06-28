@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ### **TL;DR**
 
 Podľa Johana Huizingu je hra základným princípom, z ktorého sa zrodila celá ľudská kultúra (právo, umenie, veda). Je to slobodná a dobrovoľná činnosť, ktorá sa odohráva v oddelenom svete ("[[Magický kruh]]") s vlastnými záväznými pravidlami a je staršia a fundamentálnejšia ako práca či povinnosť.

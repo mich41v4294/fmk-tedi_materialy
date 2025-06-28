@@ -1,6 +1,13 @@
 ---
-tags: [zdroj, kniha, filozofia, antropológia, teória-hier]
-aliases: [Homo Ludens: O původu kultury ve hře]
+tags:
+  - zdroj
+  - kniha
+  - filozofia
+  - antropológia
+  - teória-hier
+aliases:
+  - Homo Ludens: O původu kultury ve hře
+dg-publish: true
 ---
 * **Autor/ka:** [[Johan Huizinga]]
 * **Rok vydania:** [[1938]]

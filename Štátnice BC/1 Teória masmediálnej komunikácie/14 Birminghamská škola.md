@@ -17,7 +17,8 @@ hlavni-autori:
   - "[[Raymond Williams]]"
   - "[[David Morley]]"
   - "[[Dorothy Hobsonová]]"
-stav-vypracovania: draft
+stav-vypracovania: k-revizii
+dg-publish: true
 ---
 
 > [!TIP] TL;DR: Hlavná myšlienka v skratke

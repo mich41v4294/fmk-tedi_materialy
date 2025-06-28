@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Etika na internete**
 
 - **Prečo je to iné:** Anonymita, rýchlosť a trvalá digitálna stopa spôsobujú, že sa online správame bez zábran a často horšie ako v reálnom svete. Chýba nám empatia, lebo nevidíme reálneho človeka.

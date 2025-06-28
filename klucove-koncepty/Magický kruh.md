@@ -1,6 +1,13 @@
 ---
-tags: [definicia, teoria-hier, ludologia, huizinga]
-aliases: [magic circle, magický kruh hry]
+tags:
+  - definicia
+  - teoria-hier
+  - ludologia
+  - huizinga
+aliases:
+  - magic circle
+  - magický kruh hry
+dg-publish: true
 ---
 ## Základná definícia
 

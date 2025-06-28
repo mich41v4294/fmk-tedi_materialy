@@ -1,6 +1,16 @@
 ---
-tags: [definicia, teoria-hier, caillois, ludologia]
-aliases: [Agôn, Alea, Mimicry, Ilinx, Cailloisova typológia hier]
+tags:
+  - definicia
+  - teoria-hier
+  - caillois
+  - ludologia
+aliases:
+  - Agôn
+  - Alea
+  - Mimicry
+  - Ilinx
+  - Cailloisova typológia hier
+dg-publish: true
 ---
 ## Základná definícia
 

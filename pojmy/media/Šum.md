@@ -1,6 +1,12 @@
 ---
-tags: [definicia, teoria-komunikacie, koncept]
-aliases: ["Noise", "Komunikačný šum"]
+tags:
+  - definicia
+  - teoria-komunikacie
+  - koncept
+aliases:
+  - Noise
+  - Komunikačný šum
+dg-publish: true
 ---
 
 ## Základná definícia

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Typológia digitálnych hier**
 
 Neexistuje jedna správna škatuľka pre hru. Každá hra sa dá triediť viacerými spôsobmi naraz, aby sme ju lepšie pochopili.

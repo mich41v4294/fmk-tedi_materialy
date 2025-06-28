@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Fyzika herného sveta – Priestor a Čas**
 
 - **Základný princíp:** Priestor a čas v hrách nie sú reálne, ale sú to umelo vytvorené systémy, ktoré slúžia hrateľnosti a vytvárajú špecifický zážitok.

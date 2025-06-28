@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Ideológia a hry**
 
 - **Čo je ideológia v hrách:** Nie je to len politika. Sú to skryté, "normálne" predpoklady o svete, ktoré hra obsahuje – kto je hrdina, čo je úspech, či je násilie správne riešenie. Žiadna hra nie je "apolitická".

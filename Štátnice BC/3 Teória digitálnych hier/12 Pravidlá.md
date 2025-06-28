@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Pravidlá v hrách**
 
 - **Funkcia pravidiel:** Sú kostrou každej hry. Odlišujú hru od voľného hrania tým, že vytvárajú **obmedzenia**, a tým aj zmysluplnú **výzvu**.

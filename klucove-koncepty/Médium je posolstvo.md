@@ -7,6 +7,7 @@ tags:
   - torontska-skola
 aliases:
   - The Medium is the Message
+dg-publish: true
 ---
 ## Základná definícia
 

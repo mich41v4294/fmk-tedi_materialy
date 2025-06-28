@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Elektronický šport a kompetitívne hranie**
 
 - **Čo to je:** E-šport je organizované, profesionálne súťažné hranie hier. Nejde o bežnú zábavu, ale o disciplínu s tréningom, tímami, stratégiami a turnajmi o miliónové finančné odmeny.

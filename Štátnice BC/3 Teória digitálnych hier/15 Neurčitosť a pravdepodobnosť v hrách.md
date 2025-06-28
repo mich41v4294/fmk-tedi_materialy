@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Neurčitosť a pravdepodobnosť v hrách**
 
 - **Načo slúži:** Pravdepodobnosť a náhodnosť (RNG) robia hry napínavými, nepredvídateľnými a znovuhrateľnými. Používa sa všade: v boji (šanca na zásah), pri vypadávaní predmetov (loot) aj pri generovaní máp.

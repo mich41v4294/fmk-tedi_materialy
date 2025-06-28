@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Zvuková stránka digitálnych hier**
 
 - **Funkcie zvuku:** Zvuk v hrách nie je len kulisa. Plní 4 kľúčové funkcie:

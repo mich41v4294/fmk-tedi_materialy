@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Herný engine a modifikácie**
 
 - **Čo je Herný engine:** Je to softvérová "stavebnica" pre vývojárov. Poskytuje im hotové nástroje na grafiku, fyziku, zvuk a AI, takže nemusia všetko programovať od nuly a môžu sa sústrediť na kreatívnu časť hry.

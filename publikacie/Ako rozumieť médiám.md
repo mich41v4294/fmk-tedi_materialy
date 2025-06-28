@@ -1,6 +1,13 @@
 ---
-tags: [zdroj, kniha, teoria-medii, filozofia]
-aliases: [Understanding Media, Ako rozumieť médiám: Extenzie človeka]
+tags:
+  - zdroj
+  - kniha
+  - teoria-medii
+  - filozofia
+aliases:
+  - Understanding Media
+  - Ako rozumieť médiám: Extenzie človeka
+dg-publish: true
 ---
 * **Autor/ka:** [[Marshall McLuhan]]
 * **Rok vydania:** [[1964]]

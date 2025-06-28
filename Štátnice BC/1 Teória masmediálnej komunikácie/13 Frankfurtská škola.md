@@ -1,10 +1,19 @@
 ---
-tags: [štátnice]
+tags:
+  - štátnice
 cislo-otazky: 13
 okruh: Teoria masmedialnej komunikacie
-klucove-pojmy: ["[[Frankfurtská škola]]", "[[kritický výskum]]", "[[kultúrny priemysel]]", "[[Dialektika osvietenstva]]", "[[kritická teória]]"]
-hlavni-autori: ["[[Theodor W. Adorno]]", "[[Max Horkheimer]]"]
-stav-vypracovania: hotovo
+klucove-pojmy:
+  - "[[Frankfurtská škola]]"
+  - "[[kritický výskum]]"
+  - "[[kultúrny priemysel]]"
+  - "[[Dialektika osvietenstva]]"
+  - "[[kritická teória]]"
+hlavni-autori:
+  - "[[Theodor W. Adorno]]"
+  - "[[Max Horkheimer]]"
+stav-vypracovania: k-revizii
+dg-publish: true
 ---
 
 > [!TIP] TL;DR: Hlavná myšlienka v skratke
@@ -17,8 +26,6 @@ stav-vypracovania: hotovo
 
 ---
 ### Scenár ústnej odpovede
-
-*(Celý nasledujúci text by mal na seba plynule nadväzovať ako jeden celok. Nadpisy slúžia na štrukturáciu myšlienok, nie na oddelenie odpovede na samostatné časti.)*
 
 #### Úvodné myšlienky (Spustenie odpovede)
 

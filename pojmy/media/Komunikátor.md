@@ -1,7 +1,20 @@
 ---
-tags: [definicia, teoria-komunikacie, rola]
-aliases: [sender, odosielateľ, zdroj, podávateľ]
-suvisiace-pojmy: ["[[Komunikácia]]", "[[Komunikát]]", "[[Recipient]]", "[[Kódovanie]]", "[[Zámer (intencia)]]"]
+tags:
+  - definicia
+  - teoria-komunikacie
+  - rola
+aliases:
+  - sender
+  - odosielateľ
+  - zdroj
+  - podávateľ
+suvisiace-pojmy:
+  - "[[Komunikácia]]"
+  - "[[Komunikát]]"
+  - "[[Recipient]]"
+  - "[[Kódovanie]]"
+  - "[[Zámer (intencia)]]"
+dg-publish: true
 ---
 ## Základná definícia
 

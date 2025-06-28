@@ -11,7 +11,8 @@ klucove-pojmy:
   - "[[obsahová analýza]]"
   - "[[obrazová analýza]]"
 hlavni-autori: 
-stav-vypracovania: draft
+stav-vypracovania: k-revizii
+dg-publish: true
 ---
 
 > [!TIP] TL;DR: Hlavná myšlienka v skratke
@@ -24,8 +25,6 @@ stav-vypracovania: draft
 
 ---
 ### Scenár ústnej odpovede
-
-*(Celý nasledujúci text by mal na seba plynule nadväzovať ako jeden celok. Nadpisy slúžia na štrukturáciu myšlienok, nie na oddelenie odpovede na samostatné časti.)*
 
 #### Úvodné myšlienky (Spustenie odpovede)
 

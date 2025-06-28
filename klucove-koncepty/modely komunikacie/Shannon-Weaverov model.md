@@ -1,6 +1,12 @@
 ---
-tags: [definicia, teoria-komunikacie, model-komunikacie]
-aliases: ["Model Shannona a Weavera", "Shannonov-Weaverov model"]
+tags:
+  - definicia
+  - teoria-komunikacie
+  - model-komunikacie
+aliases:
+  - Model Shannona a Weavera
+  - Shannonov-Weaverov model
+dg-publish: true
 ---
 ## Základná definícia
 

@@ -1,6 +1,13 @@
 ---
-tags: [clovek, autor, sociolog, filozof, teoretik-hier]
-aliases: [Roger Caillois]
+tags:
+  - clovek
+  - autor
+  - sociolog
+  - filozof
+  - teoretik-hier
+aliases:
+  - Roger Caillois
+dg-publish: true
 ---
 
 | **Narodenie**        | [[1913]]                                         |

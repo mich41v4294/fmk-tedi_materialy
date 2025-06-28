@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Využívanie hier na neetické účely**
 
 - **Ako nástroj manipulácie:** Hry sa aktívne zneužívajú na:

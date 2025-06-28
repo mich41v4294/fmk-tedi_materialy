@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Vzťah digitálnych hier a technológií**
 
 - **Vzájomný pohon:** Vzťah hier a technológií je **symbiotický** – navzájom sa poháňajú vpred. Nové technológie umožňujú nové typy hier a dopyt po lepších hrách poháňa vývoj hardvéru (napr. grafických kariet).

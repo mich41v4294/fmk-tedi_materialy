@@ -1,10 +1,18 @@
 ---
-tags: [štátnice]
+tags:
+  - štátnice
 cislo-otazky: 16
 okruh: Teoria masmedialnej komunikacie
-klucove-pojmy: ["[[mediálne účinky]]", "[[teória podkožnej ihly]]", "[[teória dvojstupňového toku komunikácie]]", "[[názoroví vodcovia]]", "[[limitované účinky médií]]"]
-hlavni-autori: ["[[Paul F. Lazarsfeld]]"]
-stav-vypracovania: hotovo
+klucove-pojmy:
+  - "[[mediálne účinky]]"
+  - "[[teória podkožnej ihly]]"
+  - "[[teória dvojstupňového toku komunikácie]]"
+  - "[[názoroví vodcovia]]"
+  - "[[limitované účinky médií]]"
+hlavni-autori:
+  - "[[Paul F. Lazarsfeld]]"
+stav-vypracovania: k-revizii
+dg-publish: true
 ---
 
 > [!TIP] TL;DR: Hlavná myšlienka v skratke
@@ -17,8 +25,6 @@ stav-vypracovania: hotovo
 
 ---
 ### Scenár ústnej odpovede
-
-*(Celý nasledujúci text by mal na seba plynule nadväzovať ako jeden celok. Nadpisy slúžia na štrukturáciu myšlienok, nie na oddelenie odpovede na samostatné časti.)*
 
 #### Úvodné myšlienky (Spustenie odpovede)
 

@@ -1,10 +1,25 @@
 ---
-tags: [štátnice]
+tags:
+  - štátnice
 cislo-otazky: 4
 okruh: Teoria masmedialnej komunikacie
-klucove-pojmy: ["[[komunikačný model]]", "[[lineárny model komunikácie]]", "[[prenosový model]]", "[[Lasswellov model]]", "[[Shannon-Weaverov model]]", "[[komunikačný šum]]", "[[rituálový model]]", "[[propagačný model]]", "[[príjmový model]]"]
-hlavni-autori: ["[[Harold Lasswell]]", "[[Claude Shannon]]", "[[Warren Weaver]]", "[[Denis McQuail]]"]
-stav-vypracovania: hotovo
+klucove-pojmy:
+  - "[[komunikačný model]]"
+  - "[[lineárny model komunikácie]]"
+  - "[[prenosový model]]"
+  - "[[Lasswellov model]]"
+  - "[[Shannon-Weaverov model]]"
+  - "[[komunikačný šum]]"
+  - "[[rituálový model]]"
+  - "[[propagačný model]]"
+  - "[[príjmový model]]"
+hlavni-autori:
+  - "[[Harold Lasswell]]"
+  - "[[Claude Shannon]]"
+  - "[[Warren Weaver]]"
+  - "[[Denis McQuail]]"
+stav-vypracovania: k-revizii
+dg-publish: true
 ---
 
 > [!TIP] TL;DR: Hlavná myšlienka v skratke
@@ -17,8 +32,6 @@ stav-vypracovania: hotovo
 
 ---
 ### Scenár ústnej odpovede
-
-*(Celý nasledujúci text by mal na seba plynule nadväzovať ako jeden celok. Nadpisy slúžia na štrukturáciu myšlienok, nie na oddelenie odpovede na samostatné časti.)*
 
 #### Úvodné myšlienky (Spustenie odpovede)
 

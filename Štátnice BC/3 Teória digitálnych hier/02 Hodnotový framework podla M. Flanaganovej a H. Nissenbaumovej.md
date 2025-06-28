@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Hodnotový framework (Values at Play)**
 
 Hry **nie sú nikdy neutrálne** – vždy v sebe nesú a presadzujú nejaké ľudské hodnoty (napr. súťaživosť, spoluprácu, kreativitu).

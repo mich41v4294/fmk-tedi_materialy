@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **TLDR: Akcie a pohyb v hrách**
 
 - **Akcia = Interakcia:** Akcie sú "slovesá" hry (skoč, použi, zaútoč). Sú základom hrateľnosti, lebo nimi hráč aktívne mení stav herného sveta.
