@@ -18,7 +18,7 @@ Všetky poznámky sú písané v jazyku **Markdown** a sú optimalizované pre p
 
 Tento projekt je verejne dostupný na GitHube a jeho webová, ľahko čitateľná verzia je zverejnená pomocou pluginu "[Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden)".
 
-- **GitHub Repozitár** (vždy viac up-to-date): [mich41v4294/fmk-tedi_materialy](https://www.google.com/search?q=https://github.com/mich41v4294/fmk-tedi_materialy)
+- **GitHub Repozitár** (vždy viac up-to-date): [mich41v4294/fmk-tedi_materialy](https://github.com/mich41v4294/fmk-tedi_materialy)
 - **Webová verzia (Digital Garden)** (viac convenient): [fmk-tedi-poznamky.vercel.app](https://fmk-tedi-poznamky.vercel.app/)
 
 ## Ako prispieť
