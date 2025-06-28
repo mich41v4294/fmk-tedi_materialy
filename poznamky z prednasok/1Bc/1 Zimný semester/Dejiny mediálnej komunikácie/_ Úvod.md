@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Úvod do mediálnych štúdií
 
 Mediálne štúdiá sú vedným odborom, ktorý sa zaoberá skúmaním médií, ich obsahov, technológií, účinkov a ich úlohy v spoločnosti.

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Východiskové body a kľúčové princípy
 
 Skúmanie dejín mediálnej komunikácie si vyžaduje komplexný prístup, ktorý presahuje rámec bežného vnímania dejín ako histórie tlače. Je nutné ich zasadiť do hlbšieho civilizačného kontextu a sledovať vzťah médií k oblastiam ako [[politika]], [[právo]], [[ekonomika]] a [[kultúra]].

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Definícia a podstata
 
 Fotografia je technika a umenie výroby trvanlivých obrazových záznamov pomocou [[svetla]] alebo iných foriem elektromagnetického žiarenia. Záznam vzniká buď [[fotochemický proces|fotochemickou reakciou]] na materiáli citlivom na svetlo (napr. [[filmový pás]]) alebo prostredníctvom elektronického snímača (napr. [[CCD]] alebo [[CMOS]] senzor v digitálnych fotoaparátoch).

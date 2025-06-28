@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Základné definície a koncepty
 
 **[[Jazyk]]** a **[[reč]]** sú kľúčové, no odlišné koncepty v štúdiu komunikácie. Tento rozdiel najlepšie vystihuje lingvista [[Ferdinand de Saussure]] svojím delením na:

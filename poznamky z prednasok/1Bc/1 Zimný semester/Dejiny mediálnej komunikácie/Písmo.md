@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Definícia a podstata písma
 
 **[[Písmo]]** je technológia a systém grafických znakov, ktorý slúži na vizuálne zachytenie a trvalý záznam ľudskej reči. Je dôležité rozlišovať medzi jazykom a písmom:
