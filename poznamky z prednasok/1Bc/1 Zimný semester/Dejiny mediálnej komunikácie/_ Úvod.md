@@ -31,7 +31,7 @@ Proces masovej komunikácie možno zjednodušene opísať pomocou základného m
 - **[[Komunikátor]]**: Inštitúcia alebo osoba, ktorá vytvára a odosiela správu.
 - **[[Komunikát]]**: Samotná informácia, myšlienka alebo zábavný produkt.
 - **[[Médium]]**: Technologický prostriedok, ktorým sa správa šíri (napr. televízia, internet, tlač).
-- [[Recipient]]: Publikum alebo jednotlivec, ktorému je správa určená.
+- **[[Recipient]]**: Publikum alebo jednotlivec, ktorému je správa určená.
 - **[[Mediálny účinok|Účinok]]**: Vplyv, ktorý má správa na príjemcu.
 
 ## Významné osobnosti
